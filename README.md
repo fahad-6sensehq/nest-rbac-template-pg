@@ -1,5 +1,4 @@
-# 🎬 RBAC Template With NestJS
-
+# RBAC Template With NestJS & Postgresql
 
 ## 🚀 Getting Started
 
@@ -10,9 +9,9 @@ Follow these instructions to set up and run the project locally.
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/fahad-6sensehq/nestjs-rbac-template
+git clone https://github.com/fahad-6sensehq/nest-rbac-template-pg
 
-cd nestjs-rbac-template
+cd nestjs-rbac-template-pg
 ```
 
 ## Local Installation
