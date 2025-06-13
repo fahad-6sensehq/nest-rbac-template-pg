@@ -35,7 +35,6 @@
         "class-validator": "^0.14.2",
         "compression": "^1.8.0",
         "cookie-parser": "^1.4.7",
-        "dotenv": "^16.5.0",
         "luxon": "^3.6.1",
         "passport": "^0.7.0",
         "passport-jwt": "^4.0.1",
@@ -95,8 +94,7 @@
             "^@util/(.*)$": "<rootDir>/common/utils/$1",
             "^modules/(.*)$": "<rootDir>/modules/$1",
             "^common/(.*)$": "<rootDir>/common/$1",
-            "^app.config$": "<rootDir>/app.config",
-            "^app.configuration$": "<rootDir>/app.configuration"
+            "^app.config$": "<rootDir>/app.config"
         },
         "testRegex": ".*\\.spec\\.ts$",
         "transform": {
